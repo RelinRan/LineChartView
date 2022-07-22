@@ -9,7 +9,8 @@
 
 # 资源
 
-|名字|资源| |-|-|
+|名字|资源| 
+|-|-|
 |AAR|[line_chart_view.aar](https://github.com/RelinRan/LineChartView/blob/master/line_chart_view_2022.7.22.1)|
 |GitHub |[LineChartView](https://github.com/RelinRan/LineChartView)|
 |Gitee|[LineChartView](https://gitee.com/relin/LineChartView)|
