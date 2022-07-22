@@ -3,7 +3,7 @@
 # 预览
 
 竖屏效果  
-![效果](./ic_preview_01.png)
+![效果](./ic_preview_01.png)  
 横屏屏效果  
 ![效果](./ic_preview_02.png)
 
