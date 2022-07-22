@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--模拟数据-->
+    <attr name="simulationData" format="boolean" />
+    <!--线条颜色-->
+    <attr name="markLineColor" format="color" />
+    <!--线条宽度-->
+    <attr name="markLineStrokeWidth" format="dimension" />
+    <!--字体颜色-->
+    <attr name="markTextColor" format="color" />
+    <!--字体大小-->
+    <attr name="markTextSize" format="dimension" />
+    <!--折现颜色-->
+    <attr name="chartLintColor" format="color" />
+    <!--折现填充颜色-->
+    <attr name="chartLintSolidColor" format="color" />
+    <!--折现宽度-->
+    <attr name="chartLineStrokeWidth" format="dimension" />
+    <!--刻度线左边间距-->
+    <attr name="tickMarkMarginLeft" format="dimension" />
+    <!--刻度线文字间距-->
+    <attr name="tickMarkTextMargin" format="dimension" />
+    <!--刻度线底部间距-->
+    <attr name="tickMarkMarginBottom" format="dimension" />
+    <!--刻度线右边间距-->
+    <attr name="tickMarkMarginRight" format="dimension" />
+    <!--刻度值宽度-->
+    <attr name="tickMarkWH" format="dimension" />
+    <!--刻度线（垂直）段数-->
+    <attr name="tickMarkVerticalCount" format="integer" />
+    <!--刻度线（水平）段数-->
+    <attr name="tickMarkHorizontalCount" format="integer" />
+    <!--垂直单位刻度值-->
+    <attr name="unitVerticalTickMarkValue" format="integer" />
+    <!--水平单位刻度值-->
+    <attr name="unitHorizontalTickMarkValue" format="integer" />
+    <!--水平刻度开始值-->
+    <attr name="horizontalTickMarkStartValue" format="integer" />
+    <!--点击范围-->
+    <attr name="coordinateDownRange" format="dimension" />
+    <!--圆点半径-->
+    <attr name="circleRadius" format="dimension" />
+    <!--圆点外圈间距-->
+    <attr name="circleStrokeWidth" format="dimension" />
+    <!--圆点外圈颜色-->
+    <attr name="circleStrokeColor" format="color" />
+    <!--圆点填充颜色-->
+    <attr name="circleSolidColor" format="color" />
+    <!--描述信息背景颜色-->
+    <attr name="descriptionBackgroundColor" format="color" />
+    <!--描述信息背景圆角大小-->
+    <attr name="descriptionBackgroundRadius" format="dimension" />
+    <!--描述信息背景圆角大小-->
+    <attr name="descriptionTextSize" format="dimension" />
+    <!--描述信息文字垂直间距-->
+    <attr name="descriptionTextSpace" format="dimension" />
+    <!--描述信息文字颜色-->
+    <attr name="descriptionTextColor" format="color" />
+    <!--描述信息面板宽度-->
+    <attr name="descriptionWidth" format="dimension" />
+    <!--描述信息面板高度-->
+    <attr name="descriptionHeight" format="dimension" />
+    <!--描述信息面板距离上方间距-->
+    <attr name="descriptionMarginTop" format="dimension" />
+    <!--描述信息面板 - x轴名称-->
+    <attr name="descriptionXName" format="string" />
+    <!--描述信息面板 - x轴单位-->
+    <attr name="descriptionXUnit" format="string" />
+    <!--描述信息面板 - y轴名称-->
+    <attr name="descriptionYName" format="string" />
+    <!--描述信息面板 - y轴单位-->
+    <attr name="descriptionYUnit" format="string" />
+    <declare-styleable name="LineChartView">
+        <attr name="simulationData" />
+        <attr name="markLineColor" />
+        <attr name="markLineStrokeWidth" />
+        <attr name="markTextColor" />
+        <attr name="markTextSize" />
+        <attr name="chartLintColor" />
+        <attr name="chartLintSolidColor" />
+        <attr name="chartLineStrokeWidth" />
+        <attr name="tickMarkMarginLeft" />
+        <attr name="tickMarkTextMargin" />
+        <attr name="tickMarkMarginBottom" />
+        <attr name="tickMarkMarginRight" />
+        <attr name="tickMarkWH" />
+        <attr name="tickMarkVerticalCount" />
+        <attr name="tickMarkHorizontalCount" />
+        <attr name="unitVerticalTickMarkValue" />
+        <attr name="unitHorizontalTickMarkValue" />
+        <attr name="horizontalTickMarkStartValue" />
+        <attr name="coordinateDownRange" />
+        <attr name="circleRadius" />
+        <attr name="circleStrokeWidth" />
+        <attr name="circleStrokeColor" />
+        <attr name="circleSolidColor" />
+        <attr name="descriptionBackgroundColor" />
+        <attr name="descriptionBackgroundRadius" />
+        <attr name="descriptionTextSize" />
+        <attr name="descriptionTextSpace" />
+        <attr name="descriptionTextColor" />
+        <attr name="descriptionWidth" />
+        <attr name="descriptionHeight" />
+        <attr name="descriptionMarginTop" />
+        <attr name="descriptionXName" />
+        <attr name="descriptionXUnit" />
+        <attr name="descriptionYName" />
+        <attr name="descriptionYUnit" />
+    </declare-styleable>
+</resources>
